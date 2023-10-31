@@ -1,7 +1,6 @@
 //
 // Created by Shivansh Shrivastava on 11/5/22.
-//
-
+// Header file with all the functions
 #ifndef BUDGETPROJECT_ACCOUNT_H
 #define BUDGETPROJECT_ACCOUNT_H
 
